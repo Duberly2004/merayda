@@ -1,6 +1,6 @@
 import React from 'react'
 import { Col, Container } from 'react-bootstrap'
-import imgBussineses from '../img/imgBussineses.png'
+import imgBussineses from '../img/imgbussineses.png'
 function Bussineses() {
   return (
     <Container id='services' className='pt-5 d-flex flex-column-reverse flex-md-row justify-content-center align-items-center'>
