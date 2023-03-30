@@ -1,8 +1,7 @@
 import React,{useState} from 'react';
-import {Container,Navbar,Nav,Button,Col} from 'react-bootstrap';
+import {Container,Navbar,Nav,Button} from 'react-bootstrap';
 import logo from '../img/logo.svg';
-
-import MenuHamburguesa from '../img/menuhamburguesa.svg';
+import MenuHamburguesa from '../img/menu-hamburguesa.svg'
 import '../styles/Navbar.css';
 
 // React icons
